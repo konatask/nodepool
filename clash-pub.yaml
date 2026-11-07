@@ -192,6 +192,18 @@ proxies:
     public-key: zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg
     short-id: 41ae8e266bc3346f
   client-fingerprint: edge
+- name: SG-vless-01
+  type: vless
+  server: aws-link7.lxyun.xyz
+  port: 443
+  uuid: d1a7630e-bedd-4975-85da-591162367ef6
+  flow: xtls-rprx-vision
+  tls: true
+  servername: fastcdn.hoyoverse.com
+  reality-opts:
+    public-key: w7AGIp_u4slcX3JotLyiuaT05lawuzU3f1eL88RI53c
+    short-id: 1d77a374
+  client-fingerprint: ios
 - name: JP-vless-01
   type: vless
   server: 188.114.97.6
@@ -225,6 +237,7 @@ proxy-groups:
   - DE-vless-03
   - NL-vless-09
   - AT-vless-01
+  - SG-vless-01
   - JP-vless-01
 - name: EU
   type: select
