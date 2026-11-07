@@ -140,7 +140,7 @@ proxies:
     servername: fuck.rkn
     reality-opts:
       public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
-      short-id: 01
+      short-id: "01"
     client-fingerprint: chrome
   - name: NL-ss-16
     type: ss
@@ -181,7 +181,7 @@ proxies:
     servername: fuck.rkn
     reality-opts:
       public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
-      short-id: 01
+      short-id: "01"
     client-fingerprint: chrome
   - name: NL-vless-03
     type: vless
@@ -193,7 +193,7 @@ proxies:
     servername: fuck.rkn
     reality-opts:
       public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
-      short-id: 01
+      short-id: "01"
     client-fingerprint: chrome
   - name: NL-ss-19
     type: ss
@@ -223,7 +223,7 @@ proxies:
     servername: fuck.rkn
     reality-opts:
       public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
-      short-id: 01
+      short-id: "01"
     client-fingerprint: chrome
   - name: DE-vless-02
     type: vless
@@ -277,7 +277,7 @@ proxies:
     servername: fuck.rkn
     reality-opts:
       public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
-      short-id: 01
+      short-id: "01"
     client-fingerprint: chrome
   - name: NL-ss-25
     type: ss
